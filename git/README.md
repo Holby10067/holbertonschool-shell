@@ -1,1 +1,1 @@
-My Git and GitHub journey
+Git and GitHub Essentiels
