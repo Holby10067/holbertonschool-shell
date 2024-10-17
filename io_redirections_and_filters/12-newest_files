@@ -1,2 +1,2 @@
 #!/bin/bash
-find -type f -newer -path .
+find -type f |head -10
