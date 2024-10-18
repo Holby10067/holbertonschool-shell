@@ -1,2 +1,3 @@
 #!/bin/bash
-tr ' ' '\n' | sort -u
+sort --ignore-case | uniq -u 
+
