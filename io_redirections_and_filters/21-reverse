@@ -1,2 +1,2 @@
 #Â!/bin/bash
-echo "Reverve" | rev
+rev
